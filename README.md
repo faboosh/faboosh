@@ -26,4 +26,5 @@ Welcome to the home of everything code related I do!
 <img alt="Rust" src="https://img.shields.io/static/v1?style=flat&logo=rust&label=&message=Rust&color=602d26"/>
 <img alt="Tauri" src="https://img.shields.io/static/v1?style=flat&logo=tauri&label=&message=Tauri&color=151619"/> 
 <img alt="StoryBlok" src="https://img.shields.io/static/v1?style=flat&logo=opengl&label=&message=OpenGL&color=000022"/>
+<img alt="Svelte" src="https://img.shields.io/static/v1?style=flat&logo=svelte&label=&message=Svelte&color=333"/>
 
